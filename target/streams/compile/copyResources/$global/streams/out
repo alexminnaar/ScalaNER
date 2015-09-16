@@ -1,4 +1,0 @@
-[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
-[0m[[0mdebug[0m] [0m	(/Users/aminnaar/IdeaProjects/stanford-ner/src/main/resources/stanford_models,/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/stanford_models)[0m
-[0m[[0mdebug[0m] [0m	(/Users/aminnaar/IdeaProjects/stanford-ner/src/main/resources/stanford_models/english.all.3class.distsim.crf.ser.gz,/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/stanford_models/english.all.3class.distsim.crf.ser.gz)[0m
-[0m[[0mdebug[0m] [0m	(/Users/aminnaar/IdeaProjects/stanford-ner/src/main/resources/stanford_models/english.conll.4class.distsim.crf.ser.gz,/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/stanford_models/english.conll.4class.distsim.crf.ser.gz)[0m
