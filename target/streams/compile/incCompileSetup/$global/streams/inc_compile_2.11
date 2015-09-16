@@ -1,0 +1,647 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+40 items
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/evaluation/ClassifierPerformance$.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/evaluation/ClassifierPerformance.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/evaluation/CrossValidation$$anonfun$2.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/evaluation/CrossValidation$$anonfun$3.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/evaluation/CrossValidation$$anonfun$4.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/evaluation/CrossValidation$$anonfun$5.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/evaluation/CrossValidation$$anonfun$runXVal$1.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/evaluation/CrossValidation$$anonfun$writeFolds$1$$anonfun$1.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/evaluation/CrossValidation$$anonfun$writeFolds$1$$anonfun$apply$1.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/evaluation/CrossValidation$$anonfun$writeFolds$1$$anonfun$apply$2.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/evaluation/CrossValidation$$anonfun$writeFolds$1.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/evaluation/CrossValidation$.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/evaluation/CrossValidation.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/evaluation/CvFold$.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/evaluation/CvFold.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/ner/EntityExtraction$$anonfun$extract$1$$anonfun$apply$1.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/ner/EntityExtraction$$anonfun$extract$1.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/ner/EntityExtraction$.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/ner/EntityExtraction.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/ner/EntityToken$.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/ner/EntityToken.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/ner/SentenceEntityTokens$.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/ner/SentenceEntityTokens.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/training/CrfTrainer$$anonfun$setFlags$1.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/training/CrfTrainer$.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/training/CrfTrainer.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/training/FeatureConfig$.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/training/FeatureConfig.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/training/InteractiveTraining$$anonfun$1.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/training/InteractiveTraining$$anonfun$2$$anonfun$apply$1$$anonfun$apply$mcV$sp$1$$anonfun$apply$2.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/training/InteractiveTraining$$anonfun$2$$anonfun$apply$1$$anonfun$apply$mcV$sp$1$$anonfun$apply$3.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/training/InteractiveTraining$$anonfun$2$$anonfun$apply$1$$anonfun$apply$mcV$sp$1.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/training/InteractiveTraining$$anonfun$2$$anonfun$apply$1.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/training/InteractiveTraining$$anonfun$2.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/training/InteractiveTraining$.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/training/InteractiveTraining$delayedInit$body.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/training/InteractiveTraining.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/training/Tokenizer$$anonfun$tokenize$1.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/training/Tokenizer$.class
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/training/Tokenizer.class
+binary dependencies:
+14 items
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> /Users/aminnaar/.ivy2/cache/edu.stanford.nlp/stanford-corenlp/jars/stanford-corenlp-3.5.2.jar
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> /Users/aminnaar/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> /Users/aminnaar/.ivy2/cache/edu.stanford.nlp/stanford-corenlp/jars/stanford-corenlp-3.5.2.jar
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> /Users/aminnaar/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> /Users/aminnaar/.ivy2/cache/edu.stanford.nlp/stanford-corenlp/jars/stanford-corenlp-3.5.2.jar
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> /Users/aminnaar/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> /Users/aminnaar/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> /Users/aminnaar/.ivy2/cache/edu.stanford.nlp/stanford-corenlp/jars/stanford-corenlp-3.5.2.jar
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> /Users/aminnaar/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> /Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+40 items
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> com.nitro.stanford_ner.evaluation.ClassifierPerformance
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> com.nitro.stanford_ner.evaluation.ClassifierPerformance$
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> com.nitro.stanford_ner.evaluation.CrossValidation
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> com.nitro.stanford_ner.evaluation.CrossValidation$
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> com.nitro.stanford_ner.evaluation.CrossValidation$$anonfun$2
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> com.nitro.stanford_ner.evaluation.CrossValidation$$anonfun$3
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> com.nitro.stanford_ner.evaluation.CrossValidation$$anonfun$4
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> com.nitro.stanford_ner.evaluation.CrossValidation$$anonfun$5
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> com.nitro.stanford_ner.evaluation.CrossValidation$$anonfun$runXVal$1
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> com.nitro.stanford_ner.evaluation.CrossValidation$$anonfun$writeFolds$1
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> com.nitro.stanford_ner.evaluation.CrossValidation$$anonfun$writeFolds$1$$anonfun$1
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> com.nitro.stanford_ner.evaluation.CrossValidation$$anonfun$writeFolds$1$$anonfun$apply$1
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> com.nitro.stanford_ner.evaluation.CrossValidation$$anonfun$writeFolds$1$$anonfun$apply$2
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> com.nitro.stanford_ner.evaluation.CvFold
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> com.nitro.stanford_ner.evaluation.CvFold$
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> com.nitro.stanford_ner.ner.EntityExtraction
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> com.nitro.stanford_ner.ner.EntityExtraction$
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> com.nitro.stanford_ner.ner.EntityExtraction$$anonfun$extract$1
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> com.nitro.stanford_ner.ner.EntityExtraction$$anonfun$extract$1$$anonfun$apply$1
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> com.nitro.stanford_ner.ner.EntityToken
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> com.nitro.stanford_ner.ner.EntityToken$
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> com.nitro.stanford_ner.ner.SentenceEntityTokens
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> com.nitro.stanford_ner.ner.SentenceEntityTokens$
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> com.nitro.stanford_ner.training.CrfTrainer
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> com.nitro.stanford_ner.training.CrfTrainer$
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> com.nitro.stanford_ner.training.CrfTrainer$$anonfun$setFlags$1
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> com.nitro.stanford_ner.training.FeatureConfig
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> com.nitro.stanford_ner.training.FeatureConfig$
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> com.nitro.stanford_ner.training.InteractiveTraining
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> com.nitro.stanford_ner.training.InteractiveTraining$
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> com.nitro.stanford_ner.training.InteractiveTraining$$anonfun$1
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> com.nitro.stanford_ner.training.InteractiveTraining$$anonfun$2
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> com.nitro.stanford_ner.training.InteractiveTraining$$anonfun$2$$anonfun$apply$1
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> com.nitro.stanford_ner.training.InteractiveTraining$$anonfun$2$$anonfun$apply$1$$anonfun$apply$mcV$sp$1
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> com.nitro.stanford_ner.training.InteractiveTraining$$anonfun$2$$anonfun$apply$1$$anonfun$apply$mcV$sp$1$$anonfun$apply$2
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> com.nitro.stanford_ner.training.InteractiveTraining$$anonfun$2$$anonfun$apply$1$$anonfun$apply$mcV$sp$1$$anonfun$apply$3
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> com.nitro.stanford_ner.training.InteractiveTraining$delayedInit$body
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> com.nitro.stanford_ner.training.Tokenizer
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> com.nitro.stanford_ner.training.Tokenizer$
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> com.nitro.stanford_ner.training.Tokenizer$$anonfun$tokenize$1
+used names:
+413 items
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> !=
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> &&
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> +
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> -
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> /
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> <init>
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> ==
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> AbstractFunction1
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> AbstractFunction2
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> AnyRef
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> Array
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> CRFClassifier
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> ClassifierPerformance
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> Codec
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> CrfTrainer
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> CrossValidation
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> CvFold
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> Double
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> EntityExtraction
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> EntityToken
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> EntityTokens
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> Example
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> File
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> IndexedSeq
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> Int
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> Math
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> None
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> Predef
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> PrintWriter
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> Product
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> ScalaRunTime
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> Seq
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> Serializable
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> Source
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> Statics
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> String
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> StringContext
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> Tuple2
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> Tuple3
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> Unit
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> _1
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> _2
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> _3
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> _hashCode
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> _toString
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> apply
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> asInstanceOf
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> assert
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> canBuildFrom
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> ceil
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> close
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> collection
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> com
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> crf
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> crfClassifier
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> diff
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> doubleHash
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> edu
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> entity
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> eq
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> errorEg
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> evaluation
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> examples
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> extract
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> fallbackSystemCodec
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> fd
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> finalizeHash
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> flatMap
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> fn
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> foldLeft
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> foldNum
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> foldSize
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> foldWriteLocation
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> folds
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> foreach
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> fp
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> fromFile
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> getClassifier
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> getLines
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> grouped
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> head
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> idx
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> ie
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> immutable
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> intWrapper
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> io
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> isInstanceOf
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> java
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> l
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> lang
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> last
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> map
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> mix
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> mkString
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> modelLocation
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> ne
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> ner
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> nitro
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> nlp
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> numFolds
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> package
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> precision
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> prediction
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> predictionError
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> println
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> recall
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> refArrayOps
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> runtime
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> s
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> scala
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> size
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> split
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> stanford
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> stanford_ner
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> stats
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> target
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> testData
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> testModel
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> testSetLocation
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> to
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> toDouble
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> toInt
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> toSeq
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> toString
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> token
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> tokenPredictions
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> tp
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> trainClassifier
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> training
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> trainingData
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> trainingDataLocation
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> trainingSet
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> trainingSetPr
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> typedProductIterator
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> valSetPr
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> writeFolds
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> writeLocationDirectory
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> x
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> zip
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> zipWithIndex
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> ||
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> &&
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> <init>
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> ==
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> AbstractFunction2
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> AbstractFunction3
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> AnyRef
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> Buffer
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> CRFClassifier
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> CoreAnnotations
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> CoreLabel
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> EntityExtraction
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> EntityToken
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> EntityTokens
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> Int
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> JavaConversions
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> None
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> Predef
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> Product
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> ScalaRunTime
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> SentenceEntityTokens
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> Seq
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> Serializable
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> Statics
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> String
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> _1
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> _2
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> _toString
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> anyHash
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> asInstanceOf
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> asScalaBuffer
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> canBuildFrom
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> classify
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> collection
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> com
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> crf
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> edu
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> entity
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> eq
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> finalizeHash
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> get
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> ie
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> isInstanceOf
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> ling
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> map
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> mix
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> mutable
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> ne
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> ner
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> nerModel
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> nitro
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> nlp
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> package
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> runtime
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> sIdx
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> scala
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> sentence
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> sentenceIdx
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> sentences
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> stanford
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> stanford_ner
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> tIdx
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> text
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> toSeq
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> toString
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> tok
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> token
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> tokenIdx
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> typedProductIterator
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> word
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> zipWithIndex
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> ||
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> !=
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> <init>
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> ==
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> AnyRef
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> ArrayList
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> Boolean
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> CRFClassifier
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> CrfTrainer
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> DEFAULT
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> Either
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> Enumeration
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> FeatureConfig
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> IndexedSeq
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> Int
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> Left
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> Predef
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> Right
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> SeqClassifierFlags
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> String
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> StringTokenizer
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> Tuple2
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> _1
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> _2
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> a
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> add
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> apply
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> asInstanceOf
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> b
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> com
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> crf
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> edu
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> feature
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> features
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> flags
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> foreach
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> gazLoc
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> gazLocation
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> gazettes
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> hasMoreTokens
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> ie
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> isInstanceOf
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> java
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> map
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> maxLeft
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> maxNGramLeng
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> ml
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> mngl
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> modelSaveLocation
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> ne
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> nerClassifier
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> nextToken
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> nitro
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> nlp
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> nmng
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> noMidNGrams
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> package
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> scala
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> sequences
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> serializeClassifier
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> serializeTo
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> setFlags
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> st
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> stanford
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> stanford_ner
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> train
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> trainFile
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> training
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> trainingDataLocation
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> ucf
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> un
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> ung
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> up
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> ups
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> us
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> useClassFeature
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> useDisjunctive
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> useGazettes
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> useNext
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> usePrev
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> usePrevSequences
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> useSequences
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> useTypeSeqs
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> useTypeSeqs2
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> useTypeySequences
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> useWord
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> util
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> uts
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> uts2
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> utys
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> uw
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> while$1
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> x
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> !=
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> +
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> :+
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> <init>
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> ==
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> App
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> Breaks
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> File
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> FileWriter
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> IndexedSeq
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> InteractiveTraining
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> Predef
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> PrintWriter
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> Source
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> StdIn
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> String
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> StringContext
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> Tokenizer
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> Vector
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> _1
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> _2
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> annotationsFile
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> annotationsWriteFile
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> apply
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> args
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> break
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> breakable
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> canBuildFrom
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> close
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> collection
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> com
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> control
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> docFiles
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> documentDirectory
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> drop
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> empty
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> f
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> filter
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> flush
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> foreach
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> fromFile
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> getLines
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> getName
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> hasNext
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> idx
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> immutable
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> io
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> java
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> line
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> lines
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> linesSoFar
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> listFiles
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> mkString
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> ne
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> next
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> nitro
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> package
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> pr
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> print
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> println
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> readLine
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> refArrayOps
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> response
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> s
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> scala
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> stanford_ner
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> take
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> tok
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> token
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> tokenize
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> tokens
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> training
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> util
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> while$1
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> zipWithIndex
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> <init>
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> AnyRef
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> Buffer
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> BufferedReader
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> IndexedSeq
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> JavaConversions
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> PTBTokenizer
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> Predef
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> String
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> StringReader
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> Tokenizer
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> asScalaBuffer
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> canBuildFrom
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> collection
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> com
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> edu
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> io
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> java
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> map
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> mutable
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> newPTBTokenizer
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> nitro
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> nlp
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> package
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> process
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> scala
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> stanford
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> stanford_ner
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> text
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> toIndexedSeq
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> tokenize
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> tokenizer
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> training
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> word
+product stamps:
+40 items
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/evaluation/ClassifierPerformance$.class -> lastModified(1442438396000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/evaluation/ClassifierPerformance.class -> lastModified(1442438396000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/evaluation/CrossValidation$$anonfun$2.class -> lastModified(1442438396000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/evaluation/CrossValidation$$anonfun$3.class -> lastModified(1442438396000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/evaluation/CrossValidation$$anonfun$4.class -> lastModified(1442438396000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/evaluation/CrossValidation$$anonfun$5.class -> lastModified(1442438396000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/evaluation/CrossValidation$$anonfun$runXVal$1.class -> lastModified(1442438397000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/evaluation/CrossValidation$$anonfun$writeFolds$1$$anonfun$1.class -> lastModified(1442438397000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/evaluation/CrossValidation$$anonfun$writeFolds$1$$anonfun$apply$1.class -> lastModified(1442438397000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/evaluation/CrossValidation$$anonfun$writeFolds$1$$anonfun$apply$2.class -> lastModified(1442438397000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/evaluation/CrossValidation$$anonfun$writeFolds$1.class -> lastModified(1442438397000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/evaluation/CrossValidation$.class -> lastModified(1442438396000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/evaluation/CrossValidation.class -> lastModified(1442438396000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/evaluation/CvFold$.class -> lastModified(1442438397000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/evaluation/CvFold.class -> lastModified(1442438397000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/ner/EntityExtraction$$anonfun$extract$1$$anonfun$apply$1.class -> lastModified(1442438397000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/ner/EntityExtraction$$anonfun$extract$1.class -> lastModified(1442438397000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/ner/EntityExtraction$.class -> lastModified(1442438397000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/ner/EntityExtraction.class -> lastModified(1442438397000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/ner/EntityToken$.class -> lastModified(1442438397000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/ner/EntityToken.class -> lastModified(1442438397000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/ner/SentenceEntityTokens$.class -> lastModified(1442438397000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/ner/SentenceEntityTokens.class -> lastModified(1442438397000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/training/CrfTrainer$$anonfun$setFlags$1.class -> lastModified(1442438531000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/training/CrfTrainer$.class -> lastModified(1442438531000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/training/CrfTrainer.class -> lastModified(1442438531000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/training/FeatureConfig$.class -> lastModified(1442438531000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/training/FeatureConfig.class -> lastModified(1442438531000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/training/InteractiveTraining$$anonfun$1.class -> lastModified(1442438397000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/training/InteractiveTraining$$anonfun$2$$anonfun$apply$1$$anonfun$apply$mcV$sp$1$$anonfun$apply$2.class -> lastModified(1442438397000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/training/InteractiveTraining$$anonfun$2$$anonfun$apply$1$$anonfun$apply$mcV$sp$1$$anonfun$apply$3.class -> lastModified(1442438397000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/training/InteractiveTraining$$anonfun$2$$anonfun$apply$1$$anonfun$apply$mcV$sp$1.class -> lastModified(1442438397000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/training/InteractiveTraining$$anonfun$2$$anonfun$apply$1.class -> lastModified(1442438397000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/training/InteractiveTraining$$anonfun$2.class -> lastModified(1442438397000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/training/InteractiveTraining$.class -> lastModified(1442438397000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/training/InteractiveTraining$delayedInit$body.class -> lastModified(1442438397000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/training/InteractiveTraining.class -> lastModified(1442438397000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/training/Tokenizer$$anonfun$tokenize$1.class -> lastModified(1442438397000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/training/Tokenizer$.class -> lastModified(1442438397000)
+/Users/aminnaar/IdeaProjects/stanford-ner/target/scala-2.11/classes/com/nitro/stanford_ner/training/Tokenizer.class -> lastModified(1442438397000)
+source stamps:
+5 items
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> hash(a7b329a002964d3250ce7ffbb5bc5c0dd8214eea)
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> hash(f0387aabb4bc5e8d82e65a13cdd833b329d4d0e9)
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> hash(8c9c89d87f7b0da7531444affb5e463a338d96e9)
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> hash(fc9b2d59798689f5c838acc4ec7d344311bc1715)
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> hash(271c8344cff8cc8f00ebbb1a0337245002118da6)
+binary stamps:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1428689516000)
+/Users/aminnaar/.ivy2/cache/edu.stanford.nlp/stanford-corenlp/jars/stanford-corenlp-3.5.2.jar -> lastModified(1430770104000)
+/Users/aminnaar/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/aminnaar/.ivy2/cache/edu.stanford.nlp/stanford-corenlp/jars/stanford-corenlp-3.5.2.jar -> edu.stanford.nlp.ie.AbstractSequenceClassifier
+/Users/aminnaar/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.Enumeration
+internal apis:
+5 items
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBPE0lwAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cG/bEVN0AAZub3RpZnlzcQB+AAyF+w5edAAGQ3ZGb2xkc3EAfgAMNXN8NHQABHdhaXRzcQB+AAwU3iaSdAAJcHJlY2lzaW9uc3EAfgAMgt8J5HQADmNvcHkkZGVmYXVsdCQyc3EAfgAMmHSAPHQADSRhc0luc3RhbmNlT2ZzcQB+AAzr+4bndAAIZXhhbXBsZXNzcQB+AAwfkXKtdAAMcHJvZHVjdEFyaXR5c3EAfgAMm0prlHQABmVxdWFsc3NxAH4ADKmYEjx0AAp3cml0ZUZvbGRzc3EAfgAMlOTIxXQADGFzSW5zdGFuY2VPZnNxAH4ADEk+Lyt0AAxzeW5jaHJvbml6ZWRzcQB+AAysspVXdAANJGlzSW5zdGFuY2VPZnNxAH4ADB7P1310AAhjYW5FcXVhbHNxAH4ADELzRZZ0AAl0ZXN0TW9kZWxzcQB+AAy39ABHdAANcHJvZHVjdFByZWZpeHNxAH4ADHN6POh0AAlub3RpZnlBbGxzcQB+AAzmn1UVdAAMaXNJbnN0YW5jZU9mc3EAfgAMO2n5QnQABjxpbml0PnNxAH4ADP7khgx0AAI9PXNxAH4ADPvqRg10AAVjbG9uZXNxAH4ADJjzjcB0AAdydW5YVmFsc3EAfgAMimTPNHQAB0V4YW1wbGVzcQB+AAzP2WZbdAAEY29weXNxAH4ADKs9Dy10AAh0b1N0cmluZ3NxAH4ADIVQt0J0AAZyZWNhbGxzcQB+AAzo7w67dAACIT1zcQB+AAycv9Y9dAAIZ2V0Q2xhc3NzcQB+AAyBnzekdAAOY29weSRkZWZhdWx0JDFzcQB+AAyhpd/GdAAVQ2xhc3NpZmllclBlcmZvcm1hbmNlc3EAfgAM0OZFhHQAAm5lc3EAfgAM4SqtnHQAD0Nyb3NzVmFsaWRhdGlvbnNxAH4ADKM7GDF0AAJlcXNxAH4ADPIh5xl0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAwelDGVdAACIyNzcQB+AAwkyz/idAAIZmluYWxpemVzcQB+AAyeySngdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAwcUyHudAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAADc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBjeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAoY29tLm5pdHJvLnN0YW5mb3JkX25lci5ldmFsdWF0aW9uLkN2Rm9sZHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgB7AXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBjTAAJaW5oZXJpdGVkcQB+AGNMAAdwYXJlbnRzcQB+AGN4cQB+AIJzcQB+AHsBdXEAfgBeAAAAAHBzcQB+AHsBdXEAfgBeAAAAAHBzcQB+AHsBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAml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
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAwbYZSAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cF9b+2Z0AAZub3RpZnlzcQB+AAygG1QJdAAEd2FpdHNxAH4ADCq+zbR0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADJDyRxp0AA0kYXNJbnN0YW5jZU9mc3EAfgAMqF0n6XQADHByb2R1Y3RBcml0eXNxAH4ADKkdom50AAZlcXVhbHNzcQB+AAxsWFh2dAAMYXNJbnN0YW5jZU9mc3EAfgAMro2ScXQADEVudGl0eVRva2Vuc3NxAH4ADFSthzd0AAxzeW5jaHJvbml6ZWRzcQB+AAwTxshQdAAQRW50aXR5RXh0cmFjdGlvbnNxAH4ADApa9Wd0AA0kaXNJbnN0YW5jZU9mc3EAfgAMdNc8CXQAC0VudGl0eVRva2Vuc3EAfgAMBlCfH3QACHRva2VuSWR4c3EAfgAM8RhXiXQACGNhbkVxdWFsc3EAfgAMLsztXnQAC3NlbnRlbmNlSWR4c3EAfgAMIBp+TXQADXByb2R1Y3RQcmVmaXhzcQB+AAwRdAwYdAAJbm90aWZ5QWxsc3EAfgAMx3+unnQADGlzSW5zdGFuY2VPZnNxAH4ADBesI+B0AAY8aW5pdD5zcQB+AAwMSmeUdAACPT1zcQB+AAzu1/+1dAAFY2xvbmVzcQB+AAx4RD59dAAFdG9rZW5zcQB+AAwUcbV+dAAGZW50aXR5c3EAfgAMMlsIEHQADmNvcHkkZGVmYXVsdCQzc3EAfgAMQgV8V3QABGNvcHlzcQB+AAwQY8bEdAAIdG9TdHJpbmdzcQB+AAyKjKQidAACIT1zcQB+AAwg1tOSdAAIZ2V0Q2xhc3NzcQB+AAy0hNGMdAAOY29weSRkZWZhdWx0JDFzcQB+AAzfev9+dAACbmVzcQB+AAxvJpC4dAAUU2VudGVuY2VFbnRpdHlUb2tlbnNzcQB+AAzlEkwYdAACZXFzcQB+AAxBJONodAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMrKwCGnQAAiMjc3EAfgAMfAQ9ZnQACGZpbmFsaXplc3EAfgAMtAu3fnQAB2V4dHJhY3RzcQB+AAziYq5MdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAyZBsXIdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAADc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBjeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAmY29tLm5pdHJvLnN0YW5mb3JkX25lci5uZXIuRW50aXR5VG9rZW51cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AewFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AY0wACWluaGVyaXRlZHEAfgBjTAAHcGFyZW50c3EAfgBjeHEAfgCCc3EAfgB7AXVxAH4AXgAAAABwc3EAfgB7AXVxAH4AXgAAAABwc3EAfgB7AXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOl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
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAkIS5pAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAADc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw2gdyE3QACG9yZGVyaW5nc3EAfgALf2S7i3QADGNhbkJ1aWxkRnJvbXNxAH4AC8JvgTV0AA1ta09yZGVyaW5nT3BzdXEAfgAJAAAAvnNxAH4AC1xEoZp0AAxpdGVyYXRvckZyb21zcQB+AAs6iijgdAAKdG9JdGVyYWJsZXNxAH4AC61kFhR0AAp3aXRoRmlsdGVyc3EAfgALhuAtr3QADXRvVHJhdmVyc2FibGVzcQB+AAsroCOEdAAGbm90aWZ5c3EAfgALfvpziXQABGZpbmRzcQB+AAtFf9LNdAAEc3BhbnNxAH4AC6mYqHp0AAdmbGF0dGVuc3EAfgALV+SsenQACHRvQnVmZmVyc3EAfgALbywF/nQABWNvdW50c3EAfgALwiB9GXQABm5leHRJZHNxAH4AC7p4JIJ0AAxyZWR1Y2VPcHRpb25zcQB+AAtepcqKdAATc2xpY2VXaXRoS25vd25EZWx0YXNxAH4AC9solAd0AAR3YWl0c3EAfgALTS4KvHQAAjw9c3EAfgALh/5GV3QACWZvbGRSaWdodHNxAH4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XW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4BmXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQALWNvbS5uaXRyby5zdGFuZm9yZF9uZXIudHJhaW5pbmcuRmVhdHVyZUNvbmZpZ3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4BsQFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4BmUwACWluaGVyaXRlZHEAfgGZTAAHcGFyZW50c3EAfgGZeHEAfgG4c3EAfgGxAXVxAH4BlAAAAABwc3EAfgGxAXVxAH4BlAAAAABwc3EAfgGxAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAFc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Bt3QAC0VudW1lcmF0aW9uc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgG3c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgHRc3EAfgHEdAAMU2VyaWFsaXphYmxlcQB+AcpzcQB+AcRxAH4B13NxAH4ByHNxAH4By3VxAH4BzgAAAANzcQB+AdB0AARqYXZhc3EAfgHQdAACaW9xAH4B1XNxAH4BxHQABk9iamVjdHNxAH4ByHNxAH4By3VxAH4BzgAAAANzcQB+AdBxAH4B3XNxAH4B0HQABGxhbmdxAH4B1XNxAH4BxHQAA0FueXEAfgHKcHBzcQB+AZZxAH4Bo3VxAH4BpAAAAABzcQB+AaYAdAAqY29tLm5pdHJvLnN0YW5mb3JkX25lci50cmFpbmluZy5DcmZUcmFpbmVydXEAfgGpAAAAAHEAfgGtdXEAfgGvAAAAAHNxAH4BsQFxAH4BuXBzcQB+AbEBc3EAfgG7c3EAfgGxAXVxAH4BlAAAAABwc3EAfgGxAXVxAH4BlAAAAABwc3EAfgGxAXVxAH4BwgAAAAJzcQB+AcRxAH4B4XNxAH4ByHNxAH4By3VxAH4BzgAAAANzcQB+AdBxAH4B3XNxAH4B0HEAfgHncQB+AdVzcQB+AcRxAH4B6XNxAH4ByHNxAH4By3VxAH4BzgAAAAJzcQB+AdBxAH4B03EAfgHVcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABHNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AB9jb20ubml0cm8uc3RhbmZvcmRfbmVyLnRyYWluaW5nc3EAfgIGdAAWY29tLm5pdHJvLnN0YW5mb3JkX25lcnNxAH4CBnQACWNvbS5uaXRyb3NxAH4CBnQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT9gJRct1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABDL1VzZXJzL2FtaW5uYWFyL0lkZWFQcm9qZWN0cy9zdGFuZm9yZC1uZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFIycidh/ew2nUxREr/teRjozjZbp
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBot88FAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cGlRWrl0AAZub3RpZnlzcQB+AAxG9ip8dAAPYW5ub3RhdGlvbnNGaWxlc3EAfgAMRZk7HHQABHdhaXRzcQB+AAz9U4bIdAANJGFzSW5zdGFuY2VPZnNxAH4ADMAmVnJ0ABFkb2N1bWVudERpcmVjdG9yeXNxAH4ADA4NuqJ0AAZlcXVhbHNzcQB+AAwBx8tzdAATSW50ZXJhY3RpdmVUcmFpbmluZ3NxAH4ADDWLMdZ0AAxhc0luc3RhbmNlT2ZzcQB+AAx5FDNRdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAw81enYdAAMc3luY2hyb25pemVkc3EAfgAMcRb4pXQADSRpc0luc3RhbmNlT2ZzcQB+AAz2Nx2MdAAIZG9jRmlsZXNzcQB+AAyMvxnBdAAEbWFpbnNxAH4ADAPPLkp0AAlub3RpZnlBbGxzcQB+AAx3PuCBdAAMaXNJbnN0YW5jZU9mc3EAfgAMtKky1XQAAnByc3EAfgAMX+CYGXQAAj09c3EAfgAMLclYk3QABWNsb25lc3EAfgAM8WLQYHQAFGFubm90YXRpb25zV3JpdGVGaWxlc3EAfgAMlXtymXQACHRvU3RyaW5nc3EAfgAMOymK2HQABGFyZ3NzcQB+AAwl5hyKdAACIT1zcQB+AAw8Yz+sdAAIZ2V0Q2xhc3NzcQB+AAz7KfBRdAACbmVzcQB+AAx9sUnWdAACZXFzcQB+AAygOP80dAALZGVsYXllZEluaXRzcQB+AAySUF6VdAACIyNzcQB+AAzERy49dAAIZmluYWxpemVzcQB+AAwUYf+AdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBReHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAzY29tLm5pdHJvLnN0YW5mb3JkX25lci50cmFpbmluZy5JbnRlcmFjdGl2ZVRyYWluaW5ndXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAEHNjYWxhLmRlcHJlY2F0ZWR0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBrAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBRTAAJaW5oZXJpdGVkcQB+AFFMAAdwYXJlbnRzcQB+AFF4cQB+AHJzcQB+AGsBdXEAfgBMAAAAAHBzcQB+AGsBdXEAfgBMAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBScQB+AFt1cQB+AFwAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgB8eHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADUwABXZhbHVlcQB+AA14cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHF0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AcXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AlnNxAH4AXgBxAH4AJ3VxAH4AYQAAAABzcQB+AIl0AARVbml0cQB+AI91cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgB8eHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBkdAAFUGxhaW5xAH4AN3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AilsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AcXNxAH4AiXQABUFycmF5cQB+AI91cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AiXQABlN0cmluZ3NxAH4AjXNxAH4AkHVxAH4AkwAAAANzcQB+AJV0AARqYXZhc3EAfgCVdAAEbGFuZ3EAfgCacHNxAH4AawF1cQB+ALEAAAAEc3EAfgCJdAADQXBwcQB+AI9zcQB+AIl0AAtEZWxheWVkSW5pdHEAfgCPc3EAfgCJdAAGT2JqZWN0cQB+ALVzcQB+AIl0AANBbnlxAH4Aj3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAARzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAfY29tLm5pdHJvLnN0YW5mb3JkX25lci50cmFpbmluZ3NxAH4AyHQAFmNvbS5uaXRyby5zdGFuZm9yZF9uZXJzcQB+AMh0AAljb20ubml0cm9zcQB+AMh0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAU/YBygadXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQy9Vc2Vycy9hbWlubmFhci9JZGVhUHJvamVjdHMvc3RhbmZvcmQtbmVyL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABT8my1ZeYaJ9cg4rMTsfTRDEbwXFQ==
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHD3rrJGAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLgKLxh0AAZub3RpZnlzcQB+AAyaYs2PdAAEd2FpdHNxAH4ADGby5pZ0AA0kYXNJbnN0YW5jZU9mc3EAfgAMK/nauXQABmVxdWFsc3NxAH4ADEjrl/F0AAxhc0luc3RhbmNlT2ZzcQB+AAzh1nP0dAAIdG9rZW5pemVzcQB+AAzskkMfdAAMc3luY2hyb25pemVkc3EAfgAM0s3YnXQADSRpc0luc3RhbmNlT2ZzcQB+AAyKskXSdAAJbm90aWZ5QWxsc3EAfgAMAVtTo3QADGlzSW5zdGFuY2VPZnNxAH4ADNbJ9UZ0AAI9PXNxAH4ADD3iftN0AAVjbG9uZXNxAH4ADJFhjZl0AAlUb2tlbml6ZXJzcQB+AAzDoKRDdAAIdG9TdHJpbmdzcQB+AAzc6Wn/dAACIT1zcQB+AAy9KU9YdAAIZ2V0Q2xhc3NzcQB+AAwYH1dAdAACbmVzcQB+AAy5toFwdAACZXFzcQB+AAydCuz+dAACIyNzcQB+AAyp78TgdAAIZmluYWxpemVzcQB+AAyak7yFdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAApY29tLm5pdHJvLnN0YW5mb3JkX25lci50cmFpbmluZy5Ub2tlbml6ZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AFkBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AYHNxAH4AWQF1cQB+ADwAAAAAcHNxAH4AWQF1cQB+ADwAAAAAcHNxAH4AWQF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF90AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AF9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHh0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHlzcQB+AGx0AANBbnlzcQB+AHBzcQB+AHN1cQB+AHYAAAACc3EAfgB4dAAFc2NhbGFxAH4Af3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAARzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAfY29tLm5pdHJvLnN0YW5mb3JkX25lci50cmFpbmluZ3NxAH4AiXQAFmNvbS5uaXRyby5zdGFuZm9yZF9uZXJzcQB+AIl0AAljb20ubml0cm9zcQB+AIl0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAU/YBygadXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQy9Vc2Vycy9hbWlubmFhci9JZGVhUHJvamVjdHMvc3RhbmZvcmQtbmVyL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQnHINEz/jMjwDruxoDNyRQAhGNpg==
+external apis:
+0 items
+source infos:
+5 items
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/evaluation/CrossValidation.scala -> 
+AAAAAAAAAAA=
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/ner/EntityExtraction.scala -> 
+AAAAAAAAAAA=
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/CrfTrainer.scala -> 
+AAAADwAAAQAAAEIAOCAgICAgICAgY2FzZSAoIm1heExlZnQiLCB4KSA9PiBmbGFncy5tYXhMZWZ0ID0geCBtYXRjaCB7AQAABxUBAAAALwEALyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgAQBpL1VzZXJzL2FtaW5uYWFyL0lkZWFQcm9qZWN0cy9zdGFuZm9yZC1uZXIvc3JjL21haW4vc2NhbGEvY29tL25pdHJvL3N0YW5mb3JkX25lci90cmFpbmluZy9DcmZUcmFpbmVyLnNjYWxhAQBpL1VzZXJzL2FtaW5uYWFyL0lkZWFQcm9qZWN0cy9zdGFuZm9yZC1uZXIvc3JjL21haW4vc2NhbGEvY29tL25pdHJvL3N0YW5mb3JkX25lci90cmFpbmluZy9DcmZUcmFpbmVyLnNjYWxhAEttYXRjaCBtYXkgbm90IGJlIGV4aGF1c3RpdmUuCkl0IHdvdWxkIGZhaWwgb24gdGhlIGZvbGxvd2luZyBpbnB1dDogUmlnaHQoXykBAAABAAAARQBIICAgICAgICBjYXNlICgidXNlQ2xhc3NGZWF0dXJlIiwgeCkgPT4gZmxhZ3MudXNlQ2xhc3NGZWF0dXJlID0geCBtYXRjaCB7AQAAB4YBAAAAPwEAPyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAEAaS9Vc2Vycy9hbWlubmFhci9JZGVhUHJvamVjdHMvc3RhbmZvcmQtbmVyL3NyYy9tYWluL3NjYWxhL2NvbS9uaXRyby9zdGFuZm9yZF9uZXIvdHJhaW5pbmcvQ3JmVHJhaW5lci5zY2FsYQEAaS9Vc2Vycy9hbWlubmFhci9JZGVhUHJvamVjdHMvc3RhbmZvcmQtbmVyL3NyYy9tYWluL3NjYWxhL2NvbS9uaXRyby9zdGFuZm9yZF9uZXIvdHJhaW5pbmcvQ3JmVHJhaW5lci5zY2FsYQBKbWF0Y2ggbWF5IG5vdCBiZSBleGhhdXN0aXZlLgpJdCB3b3VsZCBmYWlsIG9uIHRoZSBmb2xsb3dpbmcgaW5wdXQ6IExlZnQoXykBAAABAAAASAA4ICAgICAgICBjYXNlICgidXNlV29yZCIsIHgpID0+IGZsYWdzLnVzZVdvcmQgPSB4IG1hdGNoIHsBAAAH6gEAAAAvAQAvICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABAGkvVXNlcnMvYW1pbm5hYXIvSWRlYVByb2plY3RzL3N0YW5mb3JkLW5lci9zcmMvbWFpbi9zY2FsYS9jb20vbml0cm8vc3RhbmZvcmRfbmVyL3RyYWluaW5nL0NyZlRyYWluZXIuc2NhbGEBAGkvVXNlcnMvYW1pbm5hYXIvSWRlYVByb2plY3RzL3N0YW5mb3JkLW5lci9zcmMvbWFpbi9zY2FsYS9jb20vbml0cm8vc3RhbmZvcmRfbmVyL3RyYWluaW5nL0NyZlRyYWluZXIuc2NhbGEASm1hdGNoIG1heSBub3QgYmUgZXhoYXVzdGl2ZS4KSXQgd291bGQgZmFpbCBvbiB0aGUgZm9sbG93aW5nIGlucHV0OiBMZWZ0KF8pAQAAAQAAAEsAOiAgICAgICAgY2FzZSAoInVzZU5HcmFtcyIsIHgpID0+IGZsYWdzLnVzZVdvcmQgPSB4IG1hdGNoIHsBAAAITgEAAAAxAQAxICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAEAaS9Vc2Vycy9hbWlubmFhci9JZGVhUHJvamVjdHMvc3RhbmZvcmQtbmVyL3NyYy9tYWluL3NjYWxhL2NvbS9uaXRyby9zdGFuZm9yZF9uZXIvdHJhaW5pbmcvQ3JmVHJhaW5lci5zY2FsYQEAaS9Vc2Vycy9hbWlubmFhci9JZGVhUHJvamVjdHMvc3RhbmZvcmQtbmVyL3NyYy9tYWluL3NjYWxhL2NvbS9uaXRyby9zdGFuZm9yZF9uZXIvdHJhaW5pbmcvQ3JmVHJhaW5lci5zY2FsYQBKbWF0Y2ggbWF5IG5vdCBiZSBleGhhdXN0aXZlLgpJdCB3b3VsZCBmYWlsIG9uIHRoZSBmb2xsb3dpbmcgaW5wdXQ6IExlZnQoXykBAAABAAAATgBAICAgICAgICBjYXNlICgibm9NaWROR3JhbXMiLCB4KSA9PiBmbGFncy5ub01pZE5HcmFtcyA9IHggbWF0Y2ggewEAAAi6AQAAADcBADcgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgAQBpL1VzZXJzL2FtaW5uYWFyL0lkZWFQcm9qZWN0cy9zdGFuZm9yZC1uZXIvc3JjL21haW4vc2NhbGEvY29tL25pdHJvL3N0YW5mb3JkX25lci90cmFpbmluZy9DcmZUcmFpbmVyLnNjYWxhAQBpL1VzZXJzL2FtaW5uYWFyL0lkZWFQcm9qZWN0cy9zdGFuZm9yZC1uZXIvc3JjL21haW4vc2NhbGEvY29tL25pdHJvL3N0YW5mb3JkX25lci90cmFpbmluZy9DcmZUcmFpbmVyLnNjYWxhAEptYXRjaCBtYXkgbm90IGJlIGV4aGF1c3RpdmUuCkl0IHdvdWxkIGZhaWwgb24gdGhlIGZvbGxvd2luZyBpbnB1dDogTGVmdChfKQEAAAEAAABRAEIgICAgICAgIGNhc2UgKCJtYXhOR3JhbUxlbmciLCB4KSA9PiBmbGFncy5tYXhOR3JhbUxlbmcgPSB4IG1hdGNoIHsBAAAJKgEAAAA5AQA5ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgAQBpL1VzZXJzL2FtaW5uYWFyL0lkZWFQcm9qZWN0cy9zdGFuZm9yZC1uZXIvc3JjL21haW4vc2NhbGEvY29tL25pdHJvL3N0YW5mb3JkX25lci90cmFpbmluZy9DcmZUcmFpbmVyLnNjYWxhAQBpL1VzZXJzL2FtaW5uYWFyL0lkZWFQcm9qZWN0cy9zdGFuZm9yZC1uZXIvc3JjL21haW4vc2NhbGEvY29tL25pdHJvL3N0YW5mb3JkX25lci90cmFpbmluZy9DcmZUcmFpbmVyLnNjYWxhAEttYXRjaCBtYXkgbm90IGJlIGV4aGF1c3RpdmUuCkl0IHdvdWxkIGZhaWwgb24gdGhlIGZvbGxvd2luZyBpbnB1dDogUmlnaHQoXykBAAABAAAAVAA4ICAgICAgICBjYXNlICgidXNlUHJldiIsIHgpID0+IGZsYWdzLnVzZVByZXYgPSB4IG1hdGNoIHsBAAAJjwEAAAAvAQAvICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABAGkvVXNlcnMvYW1pbm5hYXIvSWRlYVByb2plY3RzL3N0YW5mb3JkLW5lci9zcmMvbWFpbi9zY2FsYS9jb20vbml0cm8vc3RhbmZvcmRfbmVyL3RyYWluaW5nL0NyZlRyYWluZXIuc2NhbGEBAGkvVXNlcnMvYW1pbm5hYXIvSWRlYVByb2plY3RzL3N0YW5mb3JkLW5lci9zcmMvbWFpbi9zY2FsYS9jb20vbml0cm8vc3RhbmZvcmRfbmVyL3RyYWluaW5nL0NyZlRyYWluZXIuc2NhbGEASm1hdGNoIG1heSBub3QgYmUgZXhoYXVzdGl2ZS4KSXQgd291bGQgZmFpbCBvbiB0aGUgZm9sbG93aW5nIGlucHV0OiBMZWZ0KF8pAQAAAQAAAFcAOCAgICAgICAgY2FzZSAoInVzZU5leHQiLCB4KSA9PiBmbGFncy51c2VOZXh0ID0geCBtYXRjaCB7AQAACfEBAAAALwEALyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgAQBpL1VzZXJzL2FtaW5uYWFyL0lkZWFQcm9qZWN0cy9zdGFuZm9yZC1uZXIvc3JjL21haW4vc2NhbGEvY29tL25pdHJvL3N0YW5mb3JkX25lci90cmFpbmluZy9DcmZUcmFpbmVyLnNjYWxhAQBpL1VzZXJzL2FtaW5uYWFyL0lkZWFQcm9qZWN0cy9zdGFuZm9yZC1uZXIvc3JjL21haW4vc2NhbGEvY29tL25pdHJvL3N0YW5mb3JkX25lci90cmFpbmluZy9DcmZUcmFpbmVyLnNjYWxhAEptYXRjaCBtYXkgbm90IGJlIGV4aGF1c3RpdmUuCkl0IHdvdWxkIGZhaWwgb24gdGhlIGZvbGxvd2luZyBpbnB1dDogTGVmdChfKQEAAAEAAABaAEYgICAgICAgIGNhc2UgKCJ1c2VEaXNqdW5jdGl2ZSIsIHgpID0+IGZsYWdzLnVzZURpc2p1bmN0aXZlID0geCBtYXRjaCB7AQAACmEBAAAAPQEAPSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABAGkvVXNlcnMvYW1pbm5hYXIvSWRlYVByb2plY3RzL3N0YW5mb3JkLW5lci9zcmMvbWFpbi9zY2FsYS9jb20vbml0cm8vc3RhbmZvcmRfbmVyL3RyYWluaW5nL0NyZlRyYWluZXIuc2NhbGEBAGkvVXNlcnMvYW1pbm5hYXIvSWRlYVByb2plY3RzL3N0YW5mb3JkLW5lci9zcmMvbWFpbi9zY2FsYS9jb20vbml0cm8vc3RhbmZvcmRfbmVyL3RyYWluaW5nL0NyZlRyYWluZXIuc2NhbGEASm1hdGNoIG1heSBub3QgYmUgZXhoYXVzdGl2ZS4KSXQgd291bGQgZmFpbCBvbiB0aGUgZm9sbG93aW5nIGlucHV0OiBMZWZ0KF8pAQAAAQAAAF0AQiAgICAgICAgY2FzZSAoInVzZVNlcXVlbmNlcyIsIHgpID0+IGZsYWdzLnVzZVNlcXVlbmNlcyA9IHggbWF0Y2ggewEAAArNAQAAADkBADkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABAGkvVXNlcnMvYW1pbm5hYXIvSWRlYVByb2plY3RzL3N0YW5mb3JkLW5lci9zcmMvbWFpbi9zY2FsYS9jb20vbml0cm8vc3RhbmZvcmRfbmVyL3RyYWluaW5nL0NyZlRyYWluZXIuc2NhbGEBAGkvVXNlcnMvYW1pbm5hYXIvSWRlYVByb2plY3RzL3N0YW5mb3JkLW5lci9zcmMvbWFpbi9zY2FsYS9jb20vbml0cm8vc3RhbmZvcmRfbmVyL3RyYWluaW5nL0NyZlRyYWluZXIuc2NhbGEASm1hdGNoIG1heSBub3QgYmUgZXhoYXVzdGl2ZS4KSXQgd291bGQgZmFpbCBvbiB0aGUgZm9sbG93aW5nIGlucHV0OiBMZWZ0KF8pAQAAAQAAAGAASiAgICAgICAgY2FzZSAoInVzZVByZXZTZXF1ZW5jZXMiLCB4KSA9PiBmbGFncy51c2VQcmV2U2VxdWVuY2VzID0geCBtYXRjaCB7AQAAC0EBAAAAQQEAQSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgAQBpL1VzZXJzL2FtaW5uYWFyL0lkZWFQcm9qZWN0cy9zdGFuZm9yZC1uZXIvc3JjL21haW4vc2NhbGEvY29tL25pdHJvL3N0YW5mb3JkX25lci90cmFpbmluZy9DcmZUcmFpbmVyLnNjYWxhAQBpL1VzZXJzL2FtaW5uYWFyL0lkZWFQcm9qZWN0cy9zdGFuZm9yZC1uZXIvc3JjL21haW4vc2NhbGEvY29tL25pdHJvL3N0YW5mb3JkX25lci90cmFpbmluZy9DcmZUcmFpbmVyLnNjYWxhAEptYXRjaCBtYXkgbm90IGJlIGV4aGF1c3RpdmUuCkl0IHdvdWxkIGZhaWwgb24gdGhlIGZvbGxvd2luZyBpbnB1dDogTGVmdChfKQEAAAEAAABjAEAgICAgICAgIGNhc2UgKCJ1c2VUeXBlU2VxcyIsIHgpID0+IGZsYWdzLnVzZVR5cGVTZXFzID0geCBtYXRjaCB7AQAAC60BAAAANwEANyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABAGkvVXNlcnMvYW1pbm5hYXIvSWRlYVByb2plY3RzL3N0YW5mb3JkLW5lci9zcmMvbWFpbi9zY2FsYS9jb20vbml0cm8vc3RhbmZvcmRfbmVyL3RyYWluaW5nL0NyZlRyYWluZXIuc2NhbGEBAGkvVXNlcnMvYW1pbm5hYXIvSWRlYVByb2plY3RzL3N0YW5mb3JkLW5lci9zcmMvbWFpbi9zY2FsYS9jb20vbml0cm8vc3RhbmZvcmRfbmVyL3RyYWluaW5nL0NyZlRyYWluZXIuc2NhbGEASm1hdGNoIG1heSBub3QgYmUgZXhoYXVzdGl2ZS4KSXQgd291bGQgZmFpbCBvbiB0aGUgZm9sbG93aW5nIGlucHV0OiBMZWZ0KF8pAQAAAQAAAGYAQiAgICAgICAgY2FzZSAoInVzZVR5cGVTZXFzMiIsIHgpID0+IGZsYWdzLnVzZVR5cGVTZXFzMiA9IHggbWF0Y2ggewEAAAwbAQAAADkBADkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABAGkvVXNlcnMvYW1pbm5hYXIvSWRlYVByb2plY3RzL3N0YW5mb3JkLW5lci9zcmMvbWFpbi9zY2FsYS9jb20vbml0cm8vc3RhbmZvcmRfbmVyL3RyYWluaW5nL0NyZlRyYWluZXIuc2NhbGEBAGkvVXNlcnMvYW1pbm5hYXIvSWRlYVByb2plY3RzL3N0YW5mb3JkLW5lci9zcmMvbWFpbi9zY2FsYS9jb20vbml0cm8vc3RhbmZvcmRfbmVyL3RyYWluaW5nL0NyZlRyYWluZXIuc2NhbGEASm1hdGNoIG1heSBub3QgYmUgZXhoYXVzdGl2ZS4KSXQgd291bGQgZmFpbCBvbiB0aGUgZm9sbG93aW5nIGlucHV0OiBMZWZ0KF8pAQAAAQAAAGkATCAgICAgICAgY2FzZSAoInVzZVR5cGV5U2VxdWVuY2VzIiwgeCkgPT4gZmxhZ3MudXNlVHlwZXlTZXF1ZW5jZXMgPSB4IG1hdGNoIHsBAAAMlQEAAABDAQBDICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAEAaS9Vc2Vycy9hbWlubmFhci9JZGVhUHJvamVjdHMvc3RhbmZvcmQtbmVyL3NyYy9tYWluL3NjYWxhL2NvbS9uaXRyby9zdGFuZm9yZF9uZXIvdHJhaW5pbmcvQ3JmVHJhaW5lci5zY2FsYQEAaS9Vc2Vycy9hbWlubmFhci9JZGVhUHJvamVjdHMvc3RhbmZvcmQtbmVyL3NyYy9tYWluL3NjYWxhL2NvbS9uaXRyby9zdGFuZm9yZF9uZXIvdHJhaW5pbmcvQ3JmVHJhaW5lci5zY2FsYQBKbWF0Y2ggbWF5IG5vdCBiZSBleGhhdXN0aXZlLgpJdCB3b3VsZCBmYWlsIG9uIHRoZSBmb2xsb3dpbmcgaW5wdXQ6IExlZnQoXykBAAABAAAAQQAVICAgICAgZmVhdHVyZSBtYXRjaCB7AQAABtYBAAAABgEABiAgICAgIAEAaS9Vc2Vycy9hbWlubmFhci9JZGVhUHJvamVjdHMvc3RhbmZvcmQtbmVyL3NyYy9tYWluL3NjYWxhL2NvbS9uaXRyby9zdGFuZm9yZF9uZXIvdHJhaW5pbmcvQ3JmVHJhaW5lci5zY2FsYQEAaS9Vc2Vycy9hbWlubmFhci9JZGVhUHJvamVjdHMvc3RhbmZvcmQtbmVyL3NyYy9tYWluL3NjYWxhL2NvbS9uaXRyby9zdGFuZm9yZF9uZXIvdHJhaW5pbmcvQ3JmVHJhaW5lci5zY2FsYQBJbWF0Y2ggbWF5IG5vdCBiZSBleGhhdXN0aXZlLgpJdCB3b3VsZCBmYWlsIG9uIHRoZSBmb2xsb3dpbmcgaW5wdXQ6IChfLCBfKQEAAAAA
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/InteractiveTraining.scala -> 
+AAAAAAAAAAA=
+/Users/aminnaar/IdeaProjects/stanford-ner/src/main/scala/com/nitro/stanford_ner/training/Tokenizer.scala -> 
+AAAAAAAAAAA=
+compilations:
+6 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT9MzcVV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9hbWlubmFhci9JZGVhUHJvamVjdHMvc3RhbmZvcmQtbmVyL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT9M9Iq11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9hbWlubmFhci9JZGVhUHJvamVjdHMvc3RhbmZvcmQtbmVyL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT9e+sVN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9hbWlubmFhci9JZGVhUHJvamVjdHMvc3RhbmZvcmQtbmVyL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT9ft8XR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9hbWlubmFhci9JZGVhUHJvamVjdHMvc3RhbmZvcmQtbmVyL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT9gHKBp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9hbWlubmFhci9JZGVhUHJvamVjdHMvc3RhbmZvcmQtbmVyL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT9gJRct1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9hbWlubmFhci9JZGVhUHJvamVjdHMvc3RhbmZvcmQtbmVyL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv

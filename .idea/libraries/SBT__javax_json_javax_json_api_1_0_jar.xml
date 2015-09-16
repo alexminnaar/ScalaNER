@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: javax.json:javax.json-api:1.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/javax.json/javax.json-api/bundles/javax.json-api-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/javax.json/javax.json-api/docs/javax.json-api-1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/javax.json/javax.json-api/srcs/javax.json-api-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
