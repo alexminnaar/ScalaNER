@@ -14,7 +14,6 @@ Given some training data (possible obtained by using the above annotation tool),
 
 ```scala
 CrfTrainer.trainClassifier("training/data/file.txt","model/save/location.ser.gz")
-
 ```
 
 Where the first argument is your training data location and the second argument is where you want to save your trained model.
