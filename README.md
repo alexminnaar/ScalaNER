@@ -3,11 +3,7 @@
 Train, evaluate, run, and annotate using the [Stanford NER tool](http://nlp.stanford.edu/software/CRF-NER.shtml) in Scala.
 
 ##Annotation
-Use the ```InteractiveTraining``` command line annotation app for named entity annotation.  Below is a screenshot.
-
-![Annotator Screenshot](annotator.png)
-
-During annotation, the results are constantly flushed to a text file that records all annotations in a tab-separated format that can the be read by the NER tool to train a model.
+Use the ```InteractiveTraining``` command line annotation app for named entity annotation. During annotation, the results are constantly flushed to a text file that records all annotations in a tab-separated format that can the be read by the NER tool to train a model.
 
 ##Training
 Given some training data (possible obtained by using the above annotation tool), you can train a new NER model using ```CrfTrainer```.  For example,
